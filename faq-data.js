@@ -14,8 +14,8 @@ const faqData = [
             a: "No. After selecting a training, users are redirected from iata.org to Store, where the next steps are managed."
           },
           {
-            q: "Why are users redirected to Store?",
-            a: "Store is the dedicated platform for purchase."
+            q: "Why are users redirected from the Customer Portal to the Store?",
+            a: "The Customer Portal manages authentication and account creation, while Store manages the purchase and checkout experience. After users sign in or create an account in the Customer Portal, they are redirected back to Store to continue their purchase flow."
           }
         ]
       },

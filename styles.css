@@ -140,11 +140,11 @@ body {
     font-weight: 700;
     color: #5A5B5D;
     text-transform: uppercase;
-    letter-spacing: 2.5px; /* Increased for 'Design Token' feel */
-    margin-top: 40px; /* Separator from previous group */
-    margin-bottom: 12px; /* Tight gap to first question */
+    letter-spacing: -0.02em; /* Bespoke high-end kerning */
+    margin-top: 48px; /* Consistent group separation */
+    margin-bottom: 12px;
     display: block;
-    padding-left: 1.5rem; /* Left-aligned with question text */
+    padding-left: 1.5rem;
 }
 
 .category-anchor:first-child {
